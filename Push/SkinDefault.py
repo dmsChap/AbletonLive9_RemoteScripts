@@ -33,8 +33,8 @@ class Colors:
         Chromatic = BiLed.YELLOW_HALF
 
     class Instrument:
-        NoteBase = Rgb.OCEAN
-        NoteScale = Rgb.WHITE
+        NoteBase = Rgb.ORCHID
+        NoteScale = Rgb.OCEAN
         NoteNotScale = Rgb.BLACK
         NoteInvalid = Rgb.BLACK
         Feedback = Rgb.GREEN
